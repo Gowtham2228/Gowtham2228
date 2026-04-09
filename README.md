@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Gowtham 👋
 
-<!--
-**Gowtham2228/Gowtham2228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Software Engineer | QA | Automation Testing
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Java
+- SQL
+- Linux
+- Selenium
+- Basic Web Development(Javascript,react.js,CSS,HTML)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Student Management System (Java)
+- Selenium Login Automation
+
+## 📫 Contact
+- Email: gowthamlm2805@gmail.com
+
+
